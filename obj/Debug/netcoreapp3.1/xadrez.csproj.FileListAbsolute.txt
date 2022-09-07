@@ -1,0 +1,14 @@
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\bin\Debug\netcoreapp3.1\xadrez.exe
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\bin\Debug\netcoreapp3.1\xadrez.deps.json
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\bin\Debug\netcoreapp3.1\xadrez.runtimeconfig.json
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\bin\Debug\netcoreapp3.1\xadrez.runtimeconfig.dev.json
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\bin\Debug\netcoreapp3.1\xadrez.dll
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\bin\Debug\netcoreapp3.1\xadrez.pdb
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.csproj.AssemblyReference.cache
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.AssemblyInfoInputs.cache
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.AssemblyInfo.cs
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.dll
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.pdb
+C:\Users\Edson\Desktop\Identidade\Exercicios .NET C#\xadrez\obj\Debug\netcoreapp3.1\xadrez.genruntimeconfig.cache
